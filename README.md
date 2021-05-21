@@ -1,2 +1,7 @@
 # AI-Studies
-Machine Learning &amp; Deep Learning studies &amp; practice
+### Deep Learning &amp; Machine Learning studies &amp; practice
+* Computer Vision
+
+* NLP
+
+* Other machine learning
