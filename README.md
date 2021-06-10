@@ -4,8 +4,8 @@
 
 * NLP
 
-* Other machine learning
-   
-   
-※Git ginore list
+* Other machine learning   
+     
+     
+※ Git ginore list
 > dataset
