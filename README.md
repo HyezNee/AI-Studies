@@ -6,6 +6,7 @@
 
 * Other machine learning   
      
-     
-※ Git ginore list
+---------------------------------
+   
+#### ※ Git ginore list
 > dataset
