@@ -13,4 +13,5 @@
 ---------------------------------
    
 #### ※ Git ginore list
-> dataset
+     dataset
+     .ipynb_checkpoints
