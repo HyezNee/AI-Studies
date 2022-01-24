@@ -7,7 +7,9 @@
      > **practice/LDA_gensim**   
      > : Classifying sklearn library's news data(fetch_20newsgroups) into 20 topics using LDA(Latent Dirichlet Allocation) by gensim library & visualization by pyLDAvis library   
      > **practice/LDA_sklearn**   
-     > : Classifying news headline data by sklearn library   
+     > : Classifying Kaggle's news headline data by sklearn library   
+     > **practice/nlp_MLP**   
+     > : Classifying sklearn library's news data(fetch_20newsgroups) into 20 topics using MLP
      > **KBO_teams_classification/Cleaning_**   
      > : Preprocessing KBO community's data   
      > **KBO_teams_classification/Classification_**   
