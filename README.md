@@ -3,7 +3,7 @@
 * Computer Vision     
      > **practice/Classification_handwritten_digit_MLP**
      > : Identifying MNIST handwritten digit dataset using MLP (CNN X)
-     > - I reffered to the book [인공지능을 위한 수학] (https://github.com/freelec/ai-math-book)
+     > I reffered to the book [인공지능을 위한 수학] (https://github.com/freelec/ai-math-book)
 * NLP (Linux)   
      > **KBO_teams_topic_modeling_LSA_**   
      > : Classifying KBO community's data into 10 topics using LSA(Latent Semantic Analysis)   
