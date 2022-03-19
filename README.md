@@ -24,6 +24,6 @@
      
 ---------------------------------
    
-#### ※ Git inore list
+#### ※ Git ignore list
      dataset
      .ipynb_checkpoints
